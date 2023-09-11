@@ -1,0 +1,230 @@
+
+*{
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Cinzel', serif;
+    color: #253654;
+}
+
+body{
+    width: 100%;
+    background-color: #f5f9ff;
+    color: #7286a3;
+
+}
+
+main{
+    width: 90%;
+    height: 100%;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+
+.header{
+    height: 60px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.icon img{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+}
+
+.socialmedia{
+    width: 50px;
+    padding: 5px;
+    color: #7286a3;
+}
+
+.painel{
+    display: flex;
+    margin: 0 auto;
+    border: 1px solid red;
+    
+}
+
+.pagetitle{
+    width: 500px;
+    height: 100px;
+    border: 1px solid red;
+    margin-right: 500px;
+    margin-left: 50px;
+}
+
+.pagetitle h1{
+    font-size: 100px;
+    
+}
+
+.text-1{
+    width: 170px;
+    height: 130px;
+    border: 1px solid blue;
+    font-family: 'MADE Evolve Sans', sans-serif;
+
+}
+
+.painel-2{
+    border: 1px solid red;
+    height: 400px;
+    display: flex;
+    margin-left: 50px;
+}
+
+.img-painel{
+    width: 300px;
+    margin-top: 30px;
+}
+
+.img-painel img{
+    width: 95%;
+    border-radius: 100px 100px 0 0
+}
+
+.text-2{
+    width: 90%;
+    height: 100px;
+    border: 1px solid red;
+}
+
+.text-2 h1{
+    font-size: 100px;
+}
+
+ .studio{
+margin-left: 300px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'MADE Evolve Sans', sans-serif;
+}
+
+.free-trial{
+    margin-left: 50px;
+    font-family: 'MADE Evolve Sans', sans-serif;
+}
+
+.free-trial button{
+    border: none;
+    background:  #f5f9ff;
+}
+
+.fa-solid{
+    width: 40px;
+    height: 40px
+}
+
+.free-trial button i{
+    color: #233654;
+   
+}
+
+.about-us{
+   margin-right: 50px;
+}
+.about-us ul{
+    list-style: none;
+}
+
+.about-us .strong{
+    color: #233654 ;
+}
+
+.section{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.section-2{
+    display: flex;
+    justify-content: space-between;
+}
+.title-1{
+    margin-left: 350px;
+}
+
+.title-2{
+    margin-left: 500px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+.comment{
+    width: 350px;
+    margin-left: 200px;
+    padding-top: 200px;
+}
+
+.yoga-theory{
+    width: 200px;
+    height: 100px;
+    background: #cdd0d4;
+    margin: 0 auto;
+    margin-top: -105px;
+    z-index: 1;
+    position: relative;
+}
+
+.yoga-theory p {
+    margin: 0 auto;
+    width: 150px;
+    padding-top: 30px;
+}
+.img-section{
+   width: 700px;
+}
+
+.img-section img{
+    padding-left: 25px;
+    border-radius: 200px 200px 0 0;
+    width: 50%;
+}
+
+.section-3{
+    display: flex;
+    
+}
+
+.img-section-2{
+    width: 700px;
+ }
+ 
+ .img-section-2 img{
+    margin-left: 170px;
+     border-radius: 200px 200px 0 0;
+     width: 50%;
+ }
+
+.comment-2{
+    width: 450px;
+    margin-left: 80px;
+    padding-top: 200px;
+}
+
+.yoga-pratic{
+    width: 200px;
+    height: 100px;
+    background: #cdd0d4;
+    margin: 0 auto;
+    margin-top: -105px;
+    margin-left: 400px;
+    z-index: 1;
+    position: relative;
+}
+
+.yoga-pratic p {
+    margin: 0 auto;
+    width: 150px;
+    padding-top: 30px;
+}
+
+
+
+
